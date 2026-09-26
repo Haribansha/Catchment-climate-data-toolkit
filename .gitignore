@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# PRISM cache / large downloaded grids
+prism_cache/
+prism_temp/
+*.zip
+*.bil
+*.hdr
+*.prj
+*.stx
+
+# Generated outputs
+outputs/

@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it using the metadata below."
+title: "Catchment Climate Data Toolkit"
+type: software
+authors:
+  - family-names: Timalsina
+    given-names: Haribansha
+year: 2026
+license: MIT
+repository-code: "REPLACE_WITH_YOUR_GITHUB_REPOSITORY_URL"
